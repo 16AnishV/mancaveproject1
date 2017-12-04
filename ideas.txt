@@ -3,3 +3,5 @@
 
 who's home function to show devices on the network
   (should eliminate the need for the occasional "who's home" snapchat... at least within the regulars of the man cave)
+reminder to do the dishes
+  (rPi server send an email/text every day of the week to the person who needs to do the dishes)
