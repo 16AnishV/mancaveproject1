@@ -1,0 +1,5 @@
+# ideas for the man cave
+# created by ermako 12.4.17
+
+who's home function to show devices on the network
+  (should eliminate the need for the occasional "who's home" snapchat... at least within the regulars of the man cave)
