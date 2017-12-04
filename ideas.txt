@@ -3,3 +3,6 @@
 
 who's home function to show devices on the network
   (should eliminate the need for the occasional "who's home" snapchat... at least within the regulars of the man cave)
+
+# anish 12.4.17
+have server welcome you home when your device connects to the network (should say "Welcome home Anish" out loud)
