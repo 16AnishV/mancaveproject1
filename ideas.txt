@@ -1,10 +1,20 @@
 # ideas for the man cave
 # created by ermako 12.4.17
 
+# ermako 12.4.17
 who's home function to show devices on the network
   (should eliminate the need for the occasional "who's home" snapchat... at least within the regulars of the man cave)
 reminder to do the dishes
   (rPi server send an email/text every day of the week to the person who needs to do the dishes)
+room improvements
+  code wallpaper / posters. posters in general would be cool
+  large rug with modern-ish colors. I want to use socks down there
+
 
 # anish 12.4.17
 have server welcome you home when your device connects to the network (should say "Welcome home Anish" out loud)
+
+# ermako @above
+keep track of device wifi uptime connections. log and keep track of data. 
+would be a cool beginner data project to visualize who's in the house at what times during different days of the week.
+
