@@ -18,3 +18,8 @@ have server welcome you home when your device connects to the network (should sa
 keep track of device wifi uptime connections. log and keep track of data. 
 would be a cool beginner data project to visualize who's in the house at what times during different days of the week.
 
+# ermako 1.16.18
+other coding projects that would be fun to try and make (long projects)
+	make an atom plugin
+	make an audio visualizer (possibly compatible with spotify)
+	
