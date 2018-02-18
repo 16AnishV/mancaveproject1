@@ -1,0 +1,4 @@
+
+- redirect mopidy output and errors to log files in git repo
+- fix "sleeping" timeout issue 
+- clean up wyks (get rid of unused/irrelevant packages, etc. --> general speed ups)
